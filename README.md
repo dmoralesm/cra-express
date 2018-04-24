@@ -14,14 +14,16 @@ First, install dependencies with `npm install`, then:
 ```
 npm start
 ```
-Open [http://localhost:3000]() in your browser.
+Open [http://localhost:3000][3] in your browser.
 
 ### Production
 ```
 npm run build
 npm run production
 ```
-Open [http://localhost:5000]() in your browser.
+Open [http://localhost:5000][4] in your browser.
 
 [1]: https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0
 [2]: https://daveceddia.com/deploy-react-express-app-heroku/
+[3]: http://localhost:3000
+[4]: http://localhost:5000
