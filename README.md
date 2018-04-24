@@ -3,8 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Here I created a basic React app that consumes an API created with Express.
 
 I filled some gaps using next tutorials:
-- https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0
-- https://daveceddia.com/deploy-react-express-app-heroku/
+
++ [How to get create-react-app to work with a Node.js back-end API][1]
++ [Deploy React and Express to Heroku][2]
 
 ## Run project 
 First, install dependencies with `npm install`, then:
@@ -13,11 +14,14 @@ First, install dependencies with `npm install`, then:
 ```
 npm start
 ```
-Open http://localhost:3000 in your browser.
+Open [http://localhost:3000]() in your browser.
 
 ### Production
 ```
 npm run build
 npm run production
 ```
-Open http://localhost:5000 in your browser.
+Open [http://localhost:5000]() in your browser.
+
+[1]: https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0
+[2]: https://daveceddia.com/deploy-react-express-app-heroku/
